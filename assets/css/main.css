@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("https://fonts.googleapis.com/css?family=Lora");
-@import url("fontawesome-all.min.css");
+@import url("fa-all.min.css");
 
 /*
 	Aerial by HTML5 UP
@@ -139,7 +139,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+			font-family: 'Font Awesome 6 Free';
 			font-weight: 400;
 		}
 
@@ -227,7 +227,7 @@ input, select, textarea {
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #cecece url("images/bg.jpg") bottom left;
+		background: #ababab;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -353,7 +353,7 @@ input, select, textarea {
 		-ms-animation: overlay 1.5s 1.5s forwards;
 		animation: overlay 1.5s 1.5s forwards;
 		background-attachment: fixed, fixed;
-		background-image: url("images/overlay-pattern.png"), url("images/overlay.svg");
+		background-image: url("../images/overlay-pattern.png"), url("../images/overlay.svg");
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
